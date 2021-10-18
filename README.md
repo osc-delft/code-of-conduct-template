@@ -1,4 +1,4 @@
-# A template of Open Science Community Delft
+# A Code of Conduct Template
 tl:dr; A template based on [Open Science Comunity Delft (OSCD's)](https://osc-delft.github.io) [Code of Conduct (CoC)](https://github.com/osc-delft/osc-delft.github.io/blob/master/CODE_OF_CONDUCT.md) for anyone who'd like to reuse it!
 
 OSCD's CoC is based on the one common for all Open Science Communities within the International Network of Open Science Communities (INOSC): https://osf.io/6gsye/
