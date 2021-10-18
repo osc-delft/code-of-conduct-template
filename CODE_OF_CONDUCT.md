@@ -1,4 +1,4 @@
-THIS IS A TEMPLATE. The text is must be modified for your community/event is **[put between square brackets and bolded]**. 
+THIS IS A TEMPLATE. The text that must be modified for your community/event is **[put between square brackets and bolded]**. 
 
 [The original text of this CoC is accessible here: https://osf.io/6gsye/]
 
